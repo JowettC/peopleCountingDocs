@@ -1,10 +1,10 @@
 # peopleCountingDocs
 
-installation
+# installation <br/>
 pip install virtualenv
 
-create
+# create <br/>
 virtualenv mypython
 
-Activation 
+# Activation  <br/>
 source mypython/bin/activate
